@@ -12,6 +12,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+git clone  https://github.com/LGROW101/Full-Blockchain.git
+cd Full-Blockchain
+cd f-blockchain
+
 npm run dev
 # or
 yarn dev
